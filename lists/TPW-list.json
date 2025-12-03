@@ -1,0 +1,1960 @@
+﻿[
+    {
+        "card_name": "Commodore's Jitte",
+        "number": 5,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "40"
+    },
+    {
+        "card_name": "Life Sentence",
+        "number": 65,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "135"
+    },
+    {
+        "card_name": "Pirate's Pledge",
+        "number": 107,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "169"
+    },
+    {
+        "card_name": "Firefist Ace",
+        "number": 134,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "81"
+    },
+    {
+        "card_name": "Eager Cabin Boy",
+        "number": 176,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "64"
+    },
+    {
+        "card_name": "Gold Buddha Sengoku",
+        "number": 18,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "105"
+    },
+    {
+        "card_name": "The Ox Bell",
+        "number": 71,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "230"
+    },
+    {
+        "card_name": "Zero-Sum Gunslinger",
+        "number": 123,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "256"
+    },
+    {
+        "card_name": "Luffy, Captain to All",
+        "number": 148,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "139"
+    },
+    {
+        "card_name": "Marineford Sentinel",
+        "number": 184,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "144"
+    },
+    {
+        "card_name": "Absolute Justice Manifest",
+        "number": 1,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "0"
+    },
+    {
+        "card_name": "Bounty Writer's Zeal",
+        "number": 43,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "23"
+    },
+    {
+        "card_name": "Abyssal Sergeant",
+        "number": 83,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "1"
+    },
+    {
+        "card_name": "Buster Call",
+        "number": 130,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "30"
+    },
+    {
+        "card_name": "Burgess, Seasoned Grappler",
+        "number": 169,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "29"
+    },
+    {
+        "card_name": "Admirals' Summit",
+        "number": 2,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "3"
+    },
+    {
+        "card_name": "Emporio Ivankov, the Miracle",
+        "number": 51,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "70"
+    },
+    {
+        "card_name": "Execute",
+        "number": 95,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "75"
+    },
+    {
+        "card_name": "Flame Commandment",
+        "number": 136,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "86"
+    },
+    {
+        "card_name": "Scallywags",
+        "number": 192,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "193"
+    },
+    {
+        "card_name": "Doctor's Orders",
+        "number": 8,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "59"
+    },
+    {
+        "card_name": "Expert Disguiser",
+        "number": 52,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "78"
+    },
+    {
+        "card_name": "Execution Block Sentinels",
+        "number": 96,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "77"
+    },
+    {
+        "card_name": "Phoenix-Fire Marco",
+        "number": 152,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "165"
+    },
+    {
+        "card_name": "Scrap",
+        "number": 193,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "196"
+    },
+    {
+        "card_name": "Koby, Dedicated Officer",
+        "number": 25,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "131"
+    },
+    {
+        "card_name": "Forced Cooldown",
+        "number": 55,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "92"
+    },
+    {
+        "card_name": "Relentless Slasher",
+        "number": 111,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "182"
+    },
+    {
+        "card_name": "Raiders' Spoils",
+        "number": 156,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "180"
+    },
+    {
+        "card_name": "Swordmaster's Training",
+        "number": 199,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "226"
+    },
+    {
+        "card_name": "Kuma, the Tyrant",
+        "number": 26,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "12"
+    },
+    {
+        "card_name": "Snail Intelligence Hub",
+        "number": 77,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "214"
+    },
+    {
+        "card_name": "Shadow Stitching",
+        "number": 115,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "205"
+    },
+    {
+        "card_name": "Seventh-Division Plunderer",
+        "number": 159,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "204"
+    },
+    {
+        "card_name": "Training Regiment Specialist",
+        "number": 201,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "53"
+    },
+    {
+        "card_name": "Lockdown Experts",
+        "number": 27,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "137"
+    },
+    {
+        "card_name": "Calm Belt Devastator",
+        "number": 45,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "33"
+    },
+    {
+        "card_name": "Slam the Gates",
+        "number": 117,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "210"
+    },
+    {
+        "card_name": "Vegapunk's Machinations",
+        "number": 161,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "244"
+    },
+    {
+        "card_name": "Tsuru, Marine Grandma",
+        "number": 202,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "236"
+    },
+    {
+        "card_name": "Deploy the Platoon",
+        "number": 7,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "128"
+    },
+    {
+        "card_name": "Conqueror's Haki",
+        "number": 46,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "43"
+    },
+    {
+        "card_name": "Avaricious Enforcer",
+        "number": 84,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "10"
+    },
+    {
+        "card_name": "Young Recruiter",
+        "number": 163,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "255"
+    },
+    {
+        "card_name": "Whitebeard's Tumult",
+        "number": 204,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "251"
+    },
+    {
+        "card_name": "Draw Blades",
+        "number": 9,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "62"
+    },
+    {
+        "card_name": "Diamond Hide",
+        "number": 47,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "55"
+    },
+    {
+        "card_name": "Battlefield Confusion",
+        "number": 85,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "13"
+    },
+    {
+        "card_name": "Boa Hancock, Kuja Queen",
+        "number": 127,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "20"
+    },
+    {
+        "card_name": "Antisociologist",
+        "number": 165,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "5"
+    },
+    {
+        "card_name": "Ensnaring Soldier",
+        "number": 13,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "74"
+    },
+    {
+        "card_name": "Donquixote Doflamingo",
+        "number": 49,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "60"
+    },
+    {
+        "card_name": "Closing Ranks",
+        "number": 88,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "38"
+    },
+    {
+        "card_name": "Embrace Passion",
+        "number": 132,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "67"
+    },
+    {
+        "card_name": "Bay Cryptid",
+        "number": 167,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "15"
+    },
+    {
+        "card_name": "Fleet Admiral's Cap",
+        "number": 15,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "88"
+    },
+    {
+        "card_name": "Glacier-Beak Pheasant",
+        "number": 58,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "102"
+    },
+    {
+        "card_name": "Daz Bonez, the Living Sword",
+        "number": 91,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "48"
+    },
+    {
+        "card_name": "First Division's Charge",
+        "number": 135,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "82"
+    },
+    {
+        "card_name": "Call the Captains",
+        "number": 170,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "32"
+    },
+    {
+        "card_name": "Floating Fortification",
+        "number": 16,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "90"
+    },
+    {
+        "card_name": "Good Fortune",
+        "number": 62,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "107"
+    },
+    {
+        "card_name": "Dread Jailer",
+        "number": 92,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "63"
+    },
+    {
+        "card_name": "Forced Militarization",
+        "number": 138,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "93"
+    },
+    {
+        "card_name": "Deployment Log Overseer",
+        "number": 174,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "52"
+    },
+    {
+        "card_name": "Giant Frontliners",
+        "number": 17,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "99"
+    },
+    {
+        "card_name": "Landlubber Bounty Hunter",
+        "number": 64,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "133"
+    },
+    {
+        "card_name": "Gangplank Charger",
+        "number": 97,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "95"
+    },
+    {
+        "card_name": "Giant Pirate Sellswords",
+        "number": 141,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "100"
+    },
+    {
+        "card_name": "Dracule Mihawk",
+        "number": 175,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "61"
+    },
+    {
+        "card_name": "Hina's Lockdown",
+        "number": 19,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "112"
+    },
+    {
+        "card_name": "Maroon",
+        "number": 67,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "145"
+    },
+    {
+        "card_name": "Gecko Moria, Shadow Broker",
+        "number": 98,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "96"
+    },
+    {
+        "card_name": "Grand Line Sharpshooters",
+        "number": 142,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "108"
+    },
+    {
+        "card_name": "Emergency Food Supply",
+        "number": 177,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "68"
+    },
+    {
+        "card_name": "Just Cohort",
+        "number": 22,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "125"
+    },
+    {
+        "card_name": "Parley",
+        "number": 72,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "161"
+    },
+    {
+        "card_name": "Hijacked Hull",
+        "number": 99,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "111"
+    },
+    {
+        "card_name": "Mary Geoise Bounty Board",
+        "number": 149,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "146"
+    },
+    {
+        "card_name": "Fist of the Depths",
+        "number": 179,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "84"
+    },
+    {
+        "card_name": "Phyrric Victory",
+        "number": 30,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "166"
+    },
+    {
+        "card_name": "Rosy-Life Rememberers",
+        "number": 74,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "186"
+    },
+    {
+        "card_name": "Hooded Gulture",
+        "number": 100,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "113"
+    },
+    {
+        "card_name": "Pillaging Plunderer",
+        "number": 154,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "167"
+    },
+    {
+        "card_name": "Glimpse the Open Sea",
+        "number": 180,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "103"
+    },
+    {
+        "card_name": "Prison Transport Escort",
+        "number": 31,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "175"
+    },
+    {
+        "card_name": "Secret Police",
+        "number": 76,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "202"
+    },
+    {
+        "card_name": "On-site Procurement",
+        "number": 106,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "158"
+    },
+    {
+        "card_name": "Sakazuki's Lavaform",
+        "number": 158,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "192"
+    },
+    {
+        "card_name": "Plaza Surveyers",
+        "number": 186,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "172"
+    },
+    {
+        "card_name": "Seastone Cuffs",
+        "number": 34,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "200"
+    },
+    {
+        "card_name": "String Up",
+        "number": 81,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "221"
+    },
+    {
+        "card_name": "Play Dead",
+        "number": 108,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "170"
+    },
+    {
+        "card_name": "Unexpected Reinforcements",
+        "number": 160,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "239"
+    },
+    {
+        "card_name": "Rumbling Raft",
+        "number": 191,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "6"
+    },
+    {
+        "card_name": "Smoker, Pluming Commodore",
+        "number": 36,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "213"
+    },
+    {
+        "card_name": "Aokiji's Frigid Grip",
+        "number": 42,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "8"
+    },
+    {
+        "card_name": "Scarring Memories",
+        "number": 114,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "42"
+    },
+    {
+        "card_name": "Volcanic Meteors",
+        "number": 162,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "247"
+    },
+    {
+        "card_name": "Seafloor Savior",
+        "number": 194,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "198"
+    },
+    {
+        "card_name": "Warranted Praise",
+        "number": 40,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "249"
+    },
+    {
+        "card_name": "The Briny Depths",
+        "number": 44,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "257"
+    },
+    {
+        "card_name": "Sign in Gold",
+        "number": 116,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "208"
+    },
+    {
+        "card_name": "Akainu's Enforcers",
+        "number": 124,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "191"
+    },
+    {
+        "card_name": "Supersonic Siper",
+        "number": 198,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "223"
+    },
+    {
+        "card_name": "Armament Haki",
+        "number": 3,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "9"
+    },
+    {
+        "card_name": "Distraction Artist",
+        "number": 48,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "58"
+    },
+    {
+        "card_name": "Cannon Fodder's Folly",
+        "number": 86,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "34"
+    },
+    {
+        "card_name": "Bad Cop",
+        "number": 125,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "11"
+    },
+    {
+        "card_name": "Aftermath Surveyor",
+        "number": 164,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "2"
+    },
+    {
+        "card_name": "Claim a Bounty",
+        "number": 4,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "21"
+    },
+    {
+        "card_name": "Emperor's Return",
+        "number": 50,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "69"
+    },
+    {
+        "card_name": "Cipher Pol Sneak",
+        "number": 87,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "36"
+    },
+    {
+        "card_name": "Battlefield Reunion",
+        "number": 126,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "14"
+    },
+    {
+        "card_name": "Assemblage of Marines",
+        "number": 166,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "149"
+    },
+    {
+        "card_name": "Corrupt Detainer",
+        "number": 6,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "138"
+    },
+    {
+        "card_name": "Flash Freeze",
+        "number": 53,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "87"
+    },
+    {
+        "card_name": "Commodore's Orders",
+        "number": 89,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "41"
+    },
+    {
+        "card_name": "Bounty Shot",
+        "number": 128,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "22"
+    },
+    {
+        "card_name": "Brawler's Buffness",
+        "number": 168,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "24"
+    },
+    {
+        "card_name": "Emboldened Lieutenant",
+        "number": 10,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "66"
+    },
+    {
+        "card_name": "Fly-Fish Leaper",
+        "number": 54,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "91"
+    },
+    {
+        "card_name": "Cross Guild Provisions",
+        "number": 90,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "31"
+    },
+    {
+        "card_name": "Buckshot",
+        "number": 129,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "25"
+    },
+    {
+        "card_name": "Clash in the Bay",
+        "number": 171,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "37"
+    },
+    {
+        "card_name": "Embrittle",
+        "number": 11,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "50"
+    },
+    {
+        "card_name": "Ghost Pirate",
+        "number": 56,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "97"
+    },
+    {
+        "card_name": "Effervescent Blade",
+        "number": 93,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "65"
+    },
+    {
+        "card_name": "Desperate Gambit",
+        "number": 131,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "54"
+    },
+    {
+        "card_name": "Contraband Watchdog",
+        "number": 172,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "44"
+    },
+    {
+        "card_name": "Enlisted Paragon",
+        "number": 12,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "141"
+    },
+    {
+        "card_name": "Glacial Wall",
+        "number": 57,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "101"
+    },
+    {
+        "card_name": "Empowered Revellers",
+        "number": 94,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "72"
+    },
+    {
+        "card_name": "Emporio Tension Hormone",
+        "number": 133,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "71"
+    },
+    {
+        "card_name": "Defy Orders",
+        "number": 173,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "51"
+    },
+    {
+        "card_name": "Fair-Weather Smiler",
+        "number": 14,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "79"
+    },
+    {
+        "card_name": "Glinting General",
+        "number": 59,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "104"
+    },
+    {
+        "card_name": "Ivankov's Treatment",
+        "number": 101,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "121"
+    },
+    {
+        "card_name": "Fleet Striker",
+        "number": 137,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "89"
+    },
+    {
+        "card_name": "Father's Flagbearer",
+        "number": 178,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "80"
+    },
+    {
+        "card_name": "Inspiring Commander",
+        "number": 20,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "118"
+    },
+    {
+        "card_name": "Gold Fleet Quartermaster",
+        "number": 60,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "168"
+    },
+    {
+        "card_name": "Kizaru's Radiant Strike",
+        "number": 102,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "130"
+    },
+    {
+        "card_name": "Frenzied Strikes",
+        "number": 139,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "94"
+    },
+    {
+        "card_name": "Hormonal Rejuvenation",
+        "number": 181,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "114"
+    },
+    {
+        "card_name": "Jailhouse Dog",
+        "number": 21,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "122"
+    },
+    {
+        "card_name": "Golden Tides",
+        "number": 61,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "106"
+    },
+    {
+        "card_name": "Merchant of Marineford",
+        "number": 103,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "148"
+    },
+    {
+        "card_name": "Giant Commando",
+        "number": 140,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "98"
+    },
+    {
+        "card_name": "Landseeking Screecher",
+        "number": 182,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "134"
+    },
+    {
+        "card_name": "Just Giant",
+        "number": 23,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "126"
+    },
+    {
+        "card_name": "Intel Gatherer",
+        "number": 63,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "119"
+    },
+    {
+        "card_name": "Moria's Bonesmith",
+        "number": 104,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "151"
+    },
+    {
+        "card_name": "Greedy Deckhand",
+        "number": 143,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "109"
+    },
+    {
+        "card_name": "Marine Giantsquad",
+        "number": 183,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "140"
+    },
+    {
+        "card_name": "Justice Served",
+        "number": 24,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "127"
+    },
+    {
+        "card_name": "Maritime Sneakcreep",
+        "number": 66,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "142"
+    },
+    {
+        "card_name": "Noxious Guard",
+        "number": 105,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "156"
+    },
+    {
+        "card_name": "Ice Bay Breaker",
+        "number": 144,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "116"
+    },
+    {
+        "card_name": "Motley Crew",
+        "number": 185,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "153"
+    },
+    {
+        "card_name": "Medical Squad Graduation",
+        "number": 28,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "147"
+    },
+    {
+        "card_name": "Militant Mesmerist",
+        "number": 68,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "150"
+    },
+    {
+        "card_name": "Plaza Dredgers",
+        "number": 109,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "152"
+    },
+    {
+        "card_name": "Ice Bay Smasher",
+        "number": 145,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "117"
+    },
+    {
+        "card_name": "Proud Nakama",
+        "number": 187,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "177"
+    },
+    {
+        "card_name": "Ordered Executioners",
+        "number": 29,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "76"
+    },
+    {
+        "card_name": "Observation Haki",
+        "number": 69,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "157"
+    },
+    {
+        "card_name": "Plaza Scavenger",
+        "number": 110,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "171"
+    },
+    {
+        "card_name": "Intelligence Officer",
+        "number": 146,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "120"
+    },
+    {
+        "card_name": "Quartermaster's Assistant",
+        "number": 188,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "179"
+    },
+    {
+        "card_name": "Protector of the Plaza",
+        "number": 32,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "176"
+    },
+    {
+        "card_name": "Overwhelming Visions",
+        "number": 70,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "159"
+    },
+    {
+        "card_name": "Rotting Giant",
+        "number": 112,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "187"
+    },
+    {
+        "card_name": "Kuja Slitherer",
+        "number": 147,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "132"
+    },
+    {
+        "card_name": "Repugnant Sergeant",
+        "number": 189,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "183"
+    },
+    {
+        "card_name": "Seanews Soarers",
+        "number": 33,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "199"
+    },
+    {
+        "card_name": "Pull Some Strings",
+        "number": 73,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "178"
+    },
+    {
+        "card_name": "Ruthless Finisher",
+        "number": 113,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "47"
+    },
+    {
+        "card_name": "Payout Pirate",
+        "number": 150,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "162"
+    },
+    {
+        "card_name": "Rise to the Occasion",
+        "number": 190,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "184"
+    },
+    {
+        "card_name": "Sky Walk Initiate",
+        "number": 35,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "209"
+    },
+    {
+        "card_name": "Sail Hoisters",
+        "number": 75,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "28"
+    },
+    {
+        "card_name": "Son's Betrayal",
+        "number": 118,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "216"
+    },
+    {
+        "card_name": "Petty Officer",
+        "number": 151,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "163"
+    },
+    {
+        "card_name": "Search the Bay",
+        "number": 195,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "224"
+    },
+    {
+        "card_name": "Soldiers of Justice",
+        "number": 37,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "215"
+    },
+    {
+        "card_name": "Spotlight Scout",
+        "number": 78,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "217"
+    },
+    {
+        "card_name": "Stowaway",
+        "number": 119,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "219"
+    },
+    {
+        "card_name": "Phoenix-Fire Shot",
+        "number": 153,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "164"
+    },
+    {
+        "card_name": "Shipwreck",
+        "number": 196,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "207"
+    },
+    {
+        "card_name": "Training Captain",
+        "number": 38,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "232"
+    },
+    {
+        "card_name": "Storm Delay",
+        "number": 79,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "218"
+    },
+    {
+        "card_name": "Suckerpunch",
+        "number": 120,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "222"
+    },
+    {
+        "card_name": "Price of Darkness",
+        "number": 155,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "174"
+    },
+    {
+        "card_name": "Smash Through",
+        "number": 197,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "212"
+    },
+    {
+        "card_name": "Unsure Striker",
+        "number": 39,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "241"
+    },
+    {
+        "card_name": "Strange Shipmates",
+        "number": 80,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "220"
+    },
+    {
+        "card_name": "Toxic Pillager",
+        "number": 121,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "173"
+    },
+    {
+        "card_name": "Rust Touch Man",
+        "number": 157,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "189"
+    },
+    {
+        "card_name": "Take Aim",
+        "number": 200,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "227"
+    },
+    {
+        "card_name": "Wrack with Grief",
+        "number": 41,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "254"
+    },
+    {
+        "card_name": "Updated Orders",
+        "number": 82,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "242"
+    },
+    {
+        "card_name": "Usurp",
+        "number": 122,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "243"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Uncertain Lurker",
+        "number": 203,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "237"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Aokiji of Lazy Justice",
+        "number": 206,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "7"
+    },
+    {
+        "card_name": "Buggy Broadcast",
+        "number": 208,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "26"
+    },
+    {
+        "card_name": "Dead or Alive",
+        "number": 212,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "49"
+    },
+    {
+        "card_name": "Unrelenting Barrage",
+        "number": 227,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "240"
+    },
+    {
+        "card_name": "Vegapunk's Masterwork",
+        "number": 228,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "245"
+    },
+    {
+        "card_name": "Rear Admiral's Rebuff",
+        "number": 219,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "181"
+    },
+    {
+        "card_name": "Slickening Skulker",
+        "number": 225,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "211"
+    },
+    {
+        "card_name": "Dapper Duelist",
+        "number": 211,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "46"
+    },
+    {
+        "card_name": "Wallbreacher Giant",
+        "number": 230,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "248"
+    },
+    {
+        "card_name": "Science Soldier",
+        "number": 222,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "194"
+    },
+    {
+        "card_name": "Lockdown Captain",
+        "number": 217,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "136"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Kizaru of Unclear Justice",
+        "number": 216,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "129"
+    },
+    {
+        "card_name": "Roger's Declaration",
+        "number": 220,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "185"
+    },
+    {
+        "card_name": "Teach's Declaration",
+        "number": 226,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "228"
+    },
+    {
+        "card_name": "Akainu of Thorough Justice",
+        "number": 205,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "190"
+    },
+    {
+        "card_name": "Jinbei's Declaration",
+        "number": 215,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "123"
+    },
+    {
+        "card_name": "Sengoku's Declaration",
+        "number": 224,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "203"
+    },
+    {
+        "card_name": "Hardened Charger",
+        "number": 213,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "110"
+    },
+    {
+        "card_name": "Hypocritic Oathsworn",
+        "number": 214,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "115"
+    },
+    {
+        "card_name": "Sakazuki's Declaration",
+        "number": 221,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "4"
+    },
+    {
+        "card_name": "Seaborne Supporter",
+        "number": 223,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "197"
+    },
+    {
+        "card_name": "Vice Admiral",
+        "number": 229,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "246"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Naval Strikeleader",
+        "number": 218,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "155"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Blackbeard",
+        "number": 207,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "17"
+    },
+    {
+        "card_name": "Buggy, Jailbreak Captain",
+        "number": 209,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "27"
+    },
+    {
+        "card_name": "Whitebeard, the Sea's Father",
+        "number": 231,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "250"
+    },
+    {
+        "card_name": "Crocodile, Dessicant Capo",
+        "number": 210,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "45"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Coat of Justice",
+        "number": 234,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "39"
+    },
+    {
+        "card_name": "The Moby Dick",
+        "number": 238,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "229"
+    },
+    {
+        "card_name": "Treasure Post",
+        "number": 242,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "234"
+    },
+    {
+        "card_name": "Mounted Gunnery",
+        "number": 239,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "154"
+    },
+    {
+        "card_name": "Seastone Shrapnel",
+        "number": 241,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "201"
+    },
+    {
+        "card_name": "Treasury Key",
+        "number": 243,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "235"
+    },
+    {
+        "card_name": "Rugged Highlands",
+        "number": 250,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "124"
+    },
+    {
+        "card_name": "Beloved Video Snail",
+        "number": 232,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "16"
+    },
+    {
+        "card_name": "Captain John's Wayfinder",
+        "number": 233,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "35"
+    },
+    {
+        "card_name": "Discarded Saber",
+        "number": 235,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "56"
+    },
+    {
+        "card_name": "Encircling Gunnery Wall",
+        "number": 236,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "73"
+    },
+    {
+        "card_name": "Flag of Respite",
+        "number": 237,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "85"
+    },
+    {
+        "card_name": "Pacifista",
+        "number": 240,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "160"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Tranquil Cove",
+        "number": 255,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "233"
+    },
+    {
+        "card_name": "Dismal Backwater",
+        "number": 246,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "57"
+    },
+    {
+        "card_name": "Bloodfell Caves",
+        "number": 244,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "18"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Blossoming Sands",
+        "number": 245,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "19"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Scoured Barrens",
+        "number": 251,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "195"
+    },
+    {
+        "card_name": "Swiftwater Cliffs",
+        "number": 253,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "225"
+    },
+    {
+        "card_name": "Jungle Hollow",
+        "number": 248,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "188"
+    },
+    {
+        "card_name": "Wind-scarred Crag",
+        "number": 257,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "252"
+    },
+    {
+        "card_name": "Thornwood Falls",
+        "number": 254,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "231"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Prisoner Mine",
+        "number": 249,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "143"
+    },
+    {
+        "card_name": "World Government Summit",
+        "number": 258,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "253"
+    },
+    {
+        "card_name": "First Response Hub",
+        "number": 247,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "83"
+    },
+    {
+        "card_name": "Shifting Plaza",
+        "number": 252,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "206"
+    },
+    {
+        "card_name": "Unclaimed Territory",
+        "number": 256,
+        "shape": "normal",
+        "set": "TPW",
+        "position": "238"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

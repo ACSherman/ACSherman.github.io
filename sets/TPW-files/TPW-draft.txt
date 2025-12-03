@@ -1,0 +1,3363 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Absolute Justice Manifest",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Abyssal Sergeant",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Cursed Marine",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Aftermath Surveyor",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Marine Scout",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Admirals' Summit",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Sakazuki's Declaration",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Antisociologist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Cursed Marine Advisor",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Rumbling Raft",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Aokiji of Lazy Justice",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Cursed Marine",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Aokiji's Frigid Grip",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Armament Haki",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Avaricious Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Pirate",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Bad Cop",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Marine",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Kuma, the Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Artifact Creature — Cursed Marine Pirate",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Battlefield Confusion",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Battlefield Reunion",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Bay Cryptid",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Beloved Video Snail",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Treasure Insect",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Blackbeard",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Legendary Creature — Cursed Pirate",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Bloodfell Caves",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Blossoming Sands",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Boa Hancock, Kuja Queen",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Cursed Marine Pirate",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Claim a Bounty",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Bounty Shot",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Bounty Writer's Zeal",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Brawler's Buffness",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Buckshot",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Buggy Broadcast",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Buggy, Jailbreak Captain",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Cursed Pirate",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Sail Hoisters",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Pirate",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Burgess, Seasoned Grappler",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Pirate",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Buster Call",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Cross Guild Provisions",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Call the Captains",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Calm Belt Devastator",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Cannon Fodder's Folly",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Captain John's Wayfinder",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Cipher Pol Sneak",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Marine",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Clash in the Bay",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Closing Ranks",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Coat of Justice",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Commodore's Jitte",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Commodore's Orders",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Scarring Memories",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Conqueror's Haki",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Contraband Watchdog",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Crocodile, Dessicant Capo",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}{U}",
+			"type": "Legendary Creature — Cursed Pirate",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Dapper Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Pirate",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Ruthless Finisher",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Pirate",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Daz Bonez, the Living Sword",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Cursed Pirate",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Dead or Alive",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Embrittle",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Defy Orders",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Deployment Log Overseer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Marine",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Training Regiment Specialist",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Marine",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Desperate Gambit",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Diamond Hide",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Discarded Saber",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Dismal Backwater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Distraction Artist",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Marine",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Doctor's Orders",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Donquixote Doflamingo",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Cursed Marine Pirate",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Dracule Mihawk",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Marine Pirate",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Draw Blades",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Dread Jailer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Pirate",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Eager Cabin Boy",
+			"rarity": "mythic",
+			"mana_cost": "{G}",
+			"type": "Creature — Pirate",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Effervescent Blade",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Emboldened Lieutenant",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Marine",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Embrace Passion",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Emergency Food Supply",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Beast",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Emperor's Return",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Emporio Ivankov, the Miracle",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Cursed Ally",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Emporio Tension Hormone",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Empowered Revellers",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Marine",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Encircling Gunnery Wall",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Ensnaring Soldier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cursed Marine",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Execute",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Ordered Executioners",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Marine",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Execution Block Sentinels",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Cursed Marine",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Expert Disguiser",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Fair-Weather Smiler",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Marine",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Father's Flagbearer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Pirate",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Firefist Ace",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Legendary Creature — Cursed Pirate",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "First Division's Charge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "First Response Hub",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Fist of the Depths",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Flag of Respite",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Flame Commandment",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Flash Freeze",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Fleet Admiral's Cap",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Fleet Striker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Marine",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Floating Fortification",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Cursed Marine",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Fly-Fish Leaper",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Pirate",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Forced Cooldown",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Forced Militarization",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Frenzied Strikes",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Gangplank Charger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Pirate",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Gecko Moria, Shadow Broker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Cursed Marine Pirate",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Ghost Pirate",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Spirit Pirate",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Giant Commando",
+			"rarity": "common",
+			"mana_cost": "{6}{R}",
+			"type": "Creature — Giant Pirate",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Giant Frontliners",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Giant Marine",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Giant Pirate Sellswords",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Giant Pirate",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Glacial Wall",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Wall",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Glacier-Beak Pheasant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Glimpse the Open Sea",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Glinting General",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Pirate",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Gold Buddha Sengoku",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Cursed Marine",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Golden Tides",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Good Fortune",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Grand Line Sharpshooters",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Pirate",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Greedy Deckhand",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Pirate",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Hardened Charger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Cursed Pirate",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Hijacked Hull",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Hina's Lockdown",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Hooded Gulture",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Hormonal Rejuvenation",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Hypocritic Oathsworn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Pirate",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Ice Bay Breaker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Ice Bay Smasher",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Pirate",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Inspiring Commander",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Marine",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Intel Gatherer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Marine",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Intelligence Officer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Marine Spy",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Ivankov's Treatment",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Jailhouse Dog",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Dog",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Jinbei's Declaration",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Instant",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Rugged Highlands",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Just Cohort",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Marine",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Just Giant",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Giant Marine",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Justice Served",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Deploy the Platoon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Kizaru of Unclear Justice",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Cursed Marine",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Kizaru's Radiant Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Koby, Dedicated Officer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Marine",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Kuja Slitherer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Snake",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Landlubber Bounty Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Pirate",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Landseeking Screecher",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Bird",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Life Sentence",
+			"rarity": "mythic",
+			"mana_cost": "{7}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Lockdown Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Cursed Marine",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Lockdown Experts",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Marine Spirit",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Corrupt Detainer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Marine Rat",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Luffy, Captain to All",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Cursed Pirate",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Marine Giantsquad",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Giant Marine",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Enlisted Paragon",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Marine",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Maritime Sneakcreep",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Marine",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Prisoner Mine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Marineford Sentinel",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Marine",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Maroon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Mary Geoise Bounty Board",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Medical Squad Graduation",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Merchant of Marineford",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Marine",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Assemblage of Marines",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Militant Mesmerist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Marine",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Moria's Bonesmith",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Plaza Dredgers",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Motley Crew",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Pirate",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Mounted Gunnery",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Naval Strikeleader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Cursed Pirate",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Noxious Guard",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Marine",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Observation Haki",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "On-site Procurement",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Overwhelming Visions",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Pacifista",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Pacifista",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Parley",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Payout Pirate",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Merfolk Pirate",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Petty Officer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Marine",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Phoenix-Fire Shot",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Phoenix-Fire Marco",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Cursed Pirate Phoenix",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Phyrric Victory",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Pillaging Plunderer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Pirate",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Gold Fleet Quartermaster",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Pirate",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Pirate's Pledge",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Play Dead",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Plaza Scavenger",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Pirate",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Plaza Surveyers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Marine Scout",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Toxic Pillager",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Pirate",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Price of Darkness",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Prison Transport Escort",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Marine",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Protector of the Plaza",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Marine",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Proud Nakama",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Pirate",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Pull Some Strings",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Quartermaster's Assistant",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Pirate",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Raiders' Spoils",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Rear Admiral's Rebuff",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Relentless Slasher",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Pirate",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Repugnant Sergeant",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Wolf Marine",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Rise to the Occasion",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Roger's Declaration",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Rosy-Life Rememberers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Rotting Giant",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Giant Zombie",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Jungle Hollow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Rust Touch Man",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Marine",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Akainu of Thorough Justice",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Cursed Marine",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Akainu's Enforcers",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Marine",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Sakazuki's Lavaform",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Scallywags",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Science Soldier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Marine",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Scoured Barrens",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Scrap",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Seaborne Supporter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Merfolk Pirate",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Seafloor Savior",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Merfolk Pirate",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Seanews Soarers",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Seastone Cuffs",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Seastone Shrapnel",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Secret Police",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Marine Rogue",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Sengoku's Declaration",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Seventh-Division Plunderer",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Pirate",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Shadow Stitching",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{B}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Shifting Plaza",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Shipwreck",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Sign in Gold",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Sky Walk Initiate",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Marine",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Slam the Gates",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Slickening Skulker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Cursed Pirate",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Smash Through",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Smoker, Pluming Commodore",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Cursed Marine",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Snail Intelligence Hub",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Soldiers of Justice",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Marine",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Son's Betrayal",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Spotlight Scout",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Marine",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Storm Delay",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Stowaway",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Pirate",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Strange Shipmates",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "String Up",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Suckerpunch",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Supersonic Siper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Pirate",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Search the Bay",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Swiftwater Cliffs",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Swordmaster's Training",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Take Aim",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Teach's Declaration",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "The Moby Dick",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "The Ox Bell",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Thornwood Falls",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Training Captain",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Marine",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Tranquil Cove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Treasure Post",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Treasure",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Treasury Key",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Treasure",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Tsuru, Marine Grandma",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Marine",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Uncertain Lurker",
+			"rarity": "common",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Unclaimed Territory",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Unexpected Reinforcements",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Unrelenting Barrage",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Unsure Striker",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Marine",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Updated Orders",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Usurp",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Vegapunk's Machinations",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Vegapunk's Masterwork",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{G}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Vice Admiral",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Cursed Marine",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Volcanic Meteors",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Wallbreacher Giant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Giant Pirate",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Warranted Praise",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Whitebeard, the Sea's Father",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Cursed Pirate",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Whitebeard's Tumult",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Wind-scarred Crag",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "World Government Summit",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Wrack with Grief",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Young Recruiter",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Marine",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Zero-Sum Gunslinger",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Pirate",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "The Briny Depths",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://ACSherman.github.io/sets/TPW-files/img/257.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Absolute Justice Manifest
+	2 Abyssal Sergeant
+	2 Admirals' Summit
+	2 Sakazuki's Declaration
+	1 Aokiji of Lazy Justice
+	2 Kuma, the Tyrant
+	1 Blackbeard
+	2 Bounty Writer's Zeal
+	2 Buggy Broadcast
+	1 Buggy, Jailbreak Captain
+	2 Burgess, Seasoned Grappler
+	2 Buster Call
+	2 Coat of Justice
+	1 Commodore's Jitte
+	2 Crocodile, Dessicant Capo
+	2 Dead or Alive
+	2 Training Regiment Specialist
+	2 Doctor's Orders
+	1 Eager Cabin Boy
+	2 Emporio Ivankov, the Miracle
+	2 Execute
+	2 Execution Block Sentinels
+	2 Expert Disguiser
+	1 Firefist Ace
+	2 Flame Commandment
+	2 Forced Cooldown
+	1 Gold Buddha Sengoku
+	2 Jinbei's Declaration
+	1 Kizaru of Unclear Justice
+	2 Koby, Dedicated Officer
+	1 Life Sentence
+	2 Lockdown Experts
+	1 Luffy, Captain to All
+	2 Prisoner Mine
+	1 Marineford Sentinel
+	2 Phoenix-Fire Marco
+	1 Pirate's Pledge
+	2 Raiders' Spoils
+	2 Rear Admiral's Rebuff
+	2 Relentless Slasher
+	2 Roger's Declaration
+	1 Akainu of Thorough Justice
+	2 Scallywags
+	2 Scrap
+	2 Sengoku's Declaration
+	2 Seventh-Division Plunderer
+	2 Shadow Stitching
+	2 Slam the Gates
+	2 Snail Intelligence Hub
+	2 Swordmaster's Training
+	2 Teach's Declaration
+	2 The Moby Dick
+	1 The Ox Bell
+	2 Treasure Post
+	2 Tsuru, Marine Grandma
+	2 Unrelenting Barrage
+	2 Vegapunk's Machinations
+	2 Vegapunk's Masterwork
+	1 Whitebeard, the Sea's Father
+	2 Whitebeard's Tumult
+	2 World Government Summit
+	2 Young Recruiter
+	1 Zero-Sum Gunslinger
+[uncommon(3)]
+	4 Antisociologist
+	4 Rumbling Raft
+	4 Avaricious Enforcer
+	4 Battlefield Confusion
+	4 Bay Cryptid
+	4 Bloodfell Caves
+	4 Blossoming Sands
+	4 Boa Hancock, Kuja Queen
+	4 Call the Captains
+	4 Calm Belt Devastator
+	4 Closing Ranks
+	4 Scarring Memories
+	4 Conqueror's Haki
+	4 Dapper Duelist
+	4 Daz Bonez, the Living Sword
+	4 Deployment Log Overseer
+	4 Diamond Hide
+	4 Donquixote Doflamingo
+	4 Dracule Mihawk
+	4 Draw Blades
+	4 Dread Jailer
+	4 Embrace Passion
+	4 Emergency Food Supply
+	4 Ensnaring Soldier
+	4 First Division's Charge
+	4 First Response Hub
+	4 Fist of the Depths
+	4 Fleet Admiral's Cap
+	4 Floating Fortification
+	4 Forced Militarization
+	4 Gangplank Charger
+	4 Gecko Moria, Shadow Broker
+	4 Giant Frontliners
+	4 Giant Pirate Sellswords
+	4 Glacier-Beak Pheasant
+	4 Glimpse the Open Sea
+	4 Good Fortune
+	4 Grand Line Sharpshooters
+	4 Hardened Charger
+	4 Hijacked Hull
+	4 Hina's Lockdown
+	4 Hooded Gulture
+	4 Hypocritic Oathsworn
+	4 Rugged Highlands
+	4 Just Cohort
+	4 Deploy the Platoon
+	4 Landlubber Bounty Hunter
+	4 Lockdown Captain
+	4 Maroon
+	4 Mary Geoise Bounty Board
+	4 Mounted Gunnery
+	4 Naval Strikeleader
+	4 On-site Procurement
+	4 Parley
+	4 Phyrric Victory
+	4 Pillaging Plunderer
+	4 Play Dead
+	4 Plaza Surveyers
+	4 Prison Transport Escort
+	4 Rosy-Life Rememberers
+	4 Sakazuki's Lavaform
+	4 Science Soldier
+	4 Scoured Barrens
+	4 Seaborne Supporter
+	4 Seafloor Savior
+	4 Seastone Cuffs
+	4 Seastone Shrapnel
+	4 Secret Police
+	4 Sign in Gold
+	4 Slickening Skulker
+	4 Smoker, Pluming Commodore
+	4 String Up
+	4 Supersonic Siper
+	4 Treasury Key
+	4 Unexpected Reinforcements
+	4 Vice Admiral
+	4 Volcanic Meteors
+	4 Wallbreacher Giant
+	4 Warranted Praise
+[common(7)]
+	8 Aftermath Surveyor
+	8 Aokiji's Frigid Grip
+	8 Armament Haki
+	8 Bad Cop
+	8 Battlefield Reunion
+	8 Beloved Video Snail
+	8 Claim a Bounty
+	8 Bounty Shot
+	8 Brawler's Buffness
+	8 Buckshot
+	8 Sail Hoisters
+	8 Cross Guild Provisions
+	8 Cannon Fodder's Folly
+	8 Captain John's Wayfinder
+	8 Cipher Pol Sneak
+	8 Clash in the Bay
+	8 Commodore's Orders
+	8 Contraband Watchdog
+	8 Ruthless Finisher
+	8 Embrittle
+	8 Defy Orders
+	8 Desperate Gambit
+	8 Discarded Saber
+	8 Dismal Backwater
+	8 Distraction Artist
+	8 Effervescent Blade
+	8 Emboldened Lieutenant
+	8 Emperor's Return
+	8 Emporio Tension Hormone
+	8 Empowered Revellers
+	8 Encircling Gunnery Wall
+	8 Ordered Executioners
+	8 Fair-Weather Smiler
+	8 Father's Flagbearer
+	8 Flag of Respite
+	8 Flash Freeze
+	8 Fleet Striker
+	8 Fly-Fish Leaper
+	8 Frenzied Strikes
+	8 Ghost Pirate
+	8 Giant Commando
+	8 Glacial Wall
+	8 Glinting General
+	8 Golden Tides
+	8 Greedy Deckhand
+	8 Hormonal Rejuvenation
+	8 Ice Bay Breaker
+	8 Ice Bay Smasher
+	8 Inspiring Commander
+	8 Intel Gatherer
+	8 Intelligence Officer
+	8 Ivankov's Treatment
+	8 Jailhouse Dog
+	8 Just Giant
+	8 Justice Served
+	8 Kizaru's Radiant Strike
+	8 Kuja Slitherer
+	8 Landseeking Screecher
+	8 Corrupt Detainer
+	8 Marine Giantsquad
+	8 Enlisted Paragon
+	8 Maritime Sneakcreep
+	8 Medical Squad Graduation
+	8 Merchant of Marineford
+	8 Assemblage of Marines
+	8 Militant Mesmerist
+	8 Moria's Bonesmith
+	8 Plaza Dredgers
+	8 Motley Crew
+	8 Noxious Guard
+	8 Observation Haki
+	8 Overwhelming Visions
+	8 Pacifista
+	8 Payout Pirate
+	8 Petty Officer
+	8 Phoenix-Fire Shot
+	8 Gold Fleet Quartermaster
+	8 Plaza Scavenger
+	8 Toxic Pillager
+	8 Price of Darkness
+	8 Protector of the Plaza
+	8 Proud Nakama
+	8 Pull Some Strings
+	8 Quartermaster's Assistant
+	8 Repugnant Sergeant
+	8 Rise to the Occasion
+	8 Rotting Giant
+	8 Jungle Hollow
+	8 Rust Touch Man
+	8 Akainu's Enforcers
+	8 Seanews Soarers
+	8 Shifting Plaza
+	8 Shipwreck
+	8 Sky Walk Initiate
+	8 Smash Through
+	8 Soldiers of Justice
+	8 Son's Betrayal
+	8 Spotlight Scout
+	8 Storm Delay
+	8 Stowaway
+	8 Strange Shipmates
+	8 Suckerpunch
+	8 Search the Bay
+	8 Swiftwater Cliffs
+	8 Take Aim
+	8 Thornwood Falls
+	8 Training Captain
+	8 Tranquil Cove
+	8 Uncertain Lurker
+	8 Unclaimed Territory
+	8 Unsure Striker
+	8 Updated Orders
+	8 Usurp
+	8 Wind-scarred Crag
+	8 Wrack with Grief
+	8 The Briny Depths
+[foil(1)]
+	2 Absolute Justice Manifest
+	2 Abyssal Sergeant
+	12 Aftermath Surveyor
+	2 Admirals' Summit
+	2 Sakazuki's Declaration
+	6 Antisociologist
+	6 Rumbling Raft
+	1 Aokiji of Lazy Justice
+	12 Aokiji's Frigid Grip
+	12 Armament Haki
+	6 Avaricious Enforcer
+	12 Bad Cop
+	2 Kuma, the Tyrant
+	6 Battlefield Confusion
+	12 Battlefield Reunion
+	6 Bay Cryptid
+	12 Beloved Video Snail
+	1 Blackbeard
+	6 Bloodfell Caves
+	6 Blossoming Sands
+	6 Boa Hancock, Kuja Queen
+	12 Claim a Bounty
+	12 Bounty Shot
+	2 Bounty Writer's Zeal
+	12 Brawler's Buffness
+	12 Buckshot
+	2 Buggy Broadcast
+	1 Buggy, Jailbreak Captain
+	12 Sail Hoisters
+	2 Burgess, Seasoned Grappler
+	2 Buster Call
+	12 Cross Guild Provisions
+	6 Call the Captains
+	6 Calm Belt Devastator
+	12 Cannon Fodder's Folly
+	12 Captain John's Wayfinder
+	12 Cipher Pol Sneak
+	12 Clash in the Bay
+	6 Closing Ranks
+	2 Coat of Justice
+	1 Commodore's Jitte
+	12 Commodore's Orders
+	6 Scarring Memories
+	6 Conqueror's Haki
+	12 Contraband Watchdog
+	2 Crocodile, Dessicant Capo
+	6 Dapper Duelist
+	12 Ruthless Finisher
+	6 Daz Bonez, the Living Sword
+	2 Dead or Alive
+	12 Embrittle
+	12 Defy Orders
+	6 Deployment Log Overseer
+	2 Training Regiment Specialist
+	12 Desperate Gambit
+	6 Diamond Hide
+	12 Discarded Saber
+	12 Dismal Backwater
+	12 Distraction Artist
+	2 Doctor's Orders
+	6 Donquixote Doflamingo
+	6 Dracule Mihawk
+	6 Draw Blades
+	6 Dread Jailer
+	1 Eager Cabin Boy
+	12 Effervescent Blade
+	12 Emboldened Lieutenant
+	6 Embrace Passion
+	6 Emergency Food Supply
+	12 Emperor's Return
+	2 Emporio Ivankov, the Miracle
+	12 Emporio Tension Hormone
+	12 Empowered Revellers
+	12 Encircling Gunnery Wall
+	6 Ensnaring Soldier
+	2 Execute
+	12 Ordered Executioners
+	2 Execution Block Sentinels
+	2 Expert Disguiser
+	12 Fair-Weather Smiler
+	12 Father's Flagbearer
+	1 Firefist Ace
+	6 First Division's Charge
+	6 First Response Hub
+	6 Fist of the Depths
+	12 Flag of Respite
+	2 Flame Commandment
+	12 Flash Freeze
+	6 Fleet Admiral's Cap
+	12 Fleet Striker
+	6 Floating Fortification
+	12 Fly-Fish Leaper
+	2 Forced Cooldown
+	6 Forced Militarization
+	12 Frenzied Strikes
+	6 Gangplank Charger
+	6 Gecko Moria, Shadow Broker
+	12 Ghost Pirate
+	12 Giant Commando
+	6 Giant Frontliners
+	6 Giant Pirate Sellswords
+	12 Glacial Wall
+	6 Glacier-Beak Pheasant
+	6 Glimpse the Open Sea
+	12 Glinting General
+	1 Gold Buddha Sengoku
+	12 Golden Tides
+	6 Good Fortune
+	6 Grand Line Sharpshooters
+	12 Greedy Deckhand
+	6 Hardened Charger
+	6 Hijacked Hull
+	6 Hina's Lockdown
+	6 Hooded Gulture
+	12 Hormonal Rejuvenation
+	6 Hypocritic Oathsworn
+	12 Ice Bay Breaker
+	12 Ice Bay Smasher
+	12 Inspiring Commander
+	12 Intel Gatherer
+	12 Intelligence Officer
+	12 Ivankov's Treatment
+	12 Jailhouse Dog
+	2 Jinbei's Declaration
+	6 Rugged Highlands
+	6 Just Cohort
+	12 Just Giant
+	12 Justice Served
+	6 Deploy the Platoon
+	1 Kizaru of Unclear Justice
+	12 Kizaru's Radiant Strike
+	2 Koby, Dedicated Officer
+	12 Kuja Slitherer
+	6 Landlubber Bounty Hunter
+	12 Landseeking Screecher
+	1 Life Sentence
+	6 Lockdown Captain
+	2 Lockdown Experts
+	12 Corrupt Detainer
+	1 Luffy, Captain to All
+	12 Marine Giantsquad
+	12 Enlisted Paragon
+	12 Maritime Sneakcreep
+	2 Prisoner Mine
+	1 Marineford Sentinel
+	6 Maroon
+	6 Mary Geoise Bounty Board
+	12 Medical Squad Graduation
+	12 Merchant of Marineford
+	12 Assemblage of Marines
+	12 Militant Mesmerist
+	12 Moria's Bonesmith
+	12 Plaza Dredgers
+	12 Motley Crew
+	6 Mounted Gunnery
+	6 Naval Strikeleader
+	12 Noxious Guard
+	12 Observation Haki
+	6 On-site Procurement
+	12 Overwhelming Visions
+	12 Pacifista
+	6 Parley
+	12 Payout Pirate
+	12 Petty Officer
+	12 Phoenix-Fire Shot
+	2 Phoenix-Fire Marco
+	6 Phyrric Victory
+	6 Pillaging Plunderer
+	12 Gold Fleet Quartermaster
+	1 Pirate's Pledge
+	6 Play Dead
+	12 Plaza Scavenger
+	6 Plaza Surveyers
+	12 Toxic Pillager
+	12 Price of Darkness
+	6 Prison Transport Escort
+	12 Protector of the Plaza
+	12 Proud Nakama
+	12 Pull Some Strings
+	12 Quartermaster's Assistant
+	2 Raiders' Spoils
+	2 Rear Admiral's Rebuff
+	2 Relentless Slasher
+	12 Repugnant Sergeant
+	12 Rise to the Occasion
+	2 Roger's Declaration
+	6 Rosy-Life Rememberers
+	12 Rotting Giant
+	12 Jungle Hollow
+	12 Rust Touch Man
+	1 Akainu of Thorough Justice
+	12 Akainu's Enforcers
+	6 Sakazuki's Lavaform
+	2 Scallywags
+	6 Science Soldier
+	6 Scoured Barrens
+	2 Scrap
+	6 Seaborne Supporter
+	6 Seafloor Savior
+	12 Seanews Soarers
+	6 Seastone Cuffs
+	6 Seastone Shrapnel
+	6 Secret Police
+	2 Sengoku's Declaration
+	2 Seventh-Division Plunderer
+	2 Shadow Stitching
+	12 Shifting Plaza
+	12 Shipwreck
+	6 Sign in Gold
+	12 Sky Walk Initiate
+	2 Slam the Gates
+	6 Slickening Skulker
+	12 Smash Through
+	6 Smoker, Pluming Commodore
+	2 Snail Intelligence Hub
+	12 Soldiers of Justice
+	12 Son's Betrayal
+	12 Spotlight Scout
+	12 Storm Delay
+	12 Stowaway
+	12 Strange Shipmates
+	6 String Up
+	12 Suckerpunch
+	6 Supersonic Siper
+	12 Search the Bay
+	12 Swiftwater Cliffs
+	2 Swordmaster's Training
+	12 Take Aim
+	2 Teach's Declaration
+	2 The Moby Dick
+	1 The Ox Bell
+	12 Thornwood Falls
+	12 Training Captain
+	12 Tranquil Cove
+	2 Treasure Post
+	6 Treasury Key
+	2 Tsuru, Marine Grandma
+	12 Uncertain Lurker
+	12 Unclaimed Territory
+	6 Unexpected Reinforcements
+	2 Unrelenting Barrage
+	12 Unsure Striker
+	12 Updated Orders
+	12 Usurp
+	2 Vegapunk's Machinations
+	2 Vegapunk's Masterwork
+	6 Vice Admiral
+	6 Volcanic Meteors
+	6 Wallbreacher Giant
+	6 Warranted Praise
+	1 Whitebeard, the Sea's Father
+	2 Whitebeard's Tumult
+	12 Wind-scarred Crag
+	2 World Government Summit
+	12 Wrack with Grief
+	2 Young Recruiter
+	1 Zero-Sum Gunslinger
+	12 The Briny Depths
+[wildcard(1)]
+	7 Absolute Justice Manifest
+	7 Abyssal Sergeant
+	6 Aftermath Surveyor
+	7 Admirals' Summit
+	7 Sakazuki's Declaration
+	15 Antisociologist
+	15 Rumbling Raft
+	4 Aokiji of Lazy Justice
+	6 Aokiji's Frigid Grip
+	6 Armament Haki
+	15 Avaricious Enforcer
+	6 Bad Cop
+	7 Kuma, the Tyrant
+	15 Battlefield Confusion
+	6 Battlefield Reunion
+	15 Bay Cryptid
+	6 Beloved Video Snail
+	4 Blackbeard
+	15 Bloodfell Caves
+	15 Blossoming Sands
+	15 Boa Hancock, Kuja Queen
+	6 Claim a Bounty
+	6 Bounty Shot
+	7 Bounty Writer's Zeal
+	6 Brawler's Buffness
+	6 Buckshot
+	7 Buggy Broadcast
+	4 Buggy, Jailbreak Captain
+	6 Sail Hoisters
+	7 Burgess, Seasoned Grappler
+	7 Buster Call
+	6 Cross Guild Provisions
+	15 Call the Captains
+	15 Calm Belt Devastator
+	6 Cannon Fodder's Folly
+	6 Captain John's Wayfinder
+	6 Cipher Pol Sneak
+	6 Clash in the Bay
+	15 Closing Ranks
+	7 Coat of Justice
+	4 Commodore's Jitte
+	6 Commodore's Orders
+	15 Scarring Memories
+	15 Conqueror's Haki
+	6 Contraband Watchdog
+	7 Crocodile, Dessicant Capo
+	15 Dapper Duelist
+	6 Ruthless Finisher
+	15 Daz Bonez, the Living Sword
+	7 Dead or Alive
+	6 Embrittle
+	6 Defy Orders
+	15 Deployment Log Overseer
+	7 Training Regiment Specialist
+	6 Desperate Gambit
+	15 Diamond Hide
+	6 Discarded Saber
+	6 Dismal Backwater
+	6 Distraction Artist
+	7 Doctor's Orders
+	15 Donquixote Doflamingo
+	15 Dracule Mihawk
+	15 Draw Blades
+	15 Dread Jailer
+	4 Eager Cabin Boy
+	6 Effervescent Blade
+	6 Emboldened Lieutenant
+	15 Embrace Passion
+	15 Emergency Food Supply
+	6 Emperor's Return
+	7 Emporio Ivankov, the Miracle
+	6 Emporio Tension Hormone
+	6 Empowered Revellers
+	6 Encircling Gunnery Wall
+	15 Ensnaring Soldier
+	7 Execute
+	6 Ordered Executioners
+	7 Execution Block Sentinels
+	7 Expert Disguiser
+	6 Fair-Weather Smiler
+	6 Father's Flagbearer
+	4 Firefist Ace
+	15 First Division's Charge
+	15 First Response Hub
+	15 Fist of the Depths
+	6 Flag of Respite
+	7 Flame Commandment
+	6 Flash Freeze
+	15 Fleet Admiral's Cap
+	6 Fleet Striker
+	15 Floating Fortification
+	6 Fly-Fish Leaper
+	7 Forced Cooldown
+	15 Forced Militarization
+	6 Frenzied Strikes
+	15 Gangplank Charger
+	15 Gecko Moria, Shadow Broker
+	6 Ghost Pirate
+	6 Giant Commando
+	15 Giant Frontliners
+	15 Giant Pirate Sellswords
+	6 Glacial Wall
+	15 Glacier-Beak Pheasant
+	15 Glimpse the Open Sea
+	6 Glinting General
+	4 Gold Buddha Sengoku
+	6 Golden Tides
+	15 Good Fortune
+	15 Grand Line Sharpshooters
+	6 Greedy Deckhand
+	15 Hardened Charger
+	15 Hijacked Hull
+	15 Hina's Lockdown
+	15 Hooded Gulture
+	6 Hormonal Rejuvenation
+	15 Hypocritic Oathsworn
+	6 Ice Bay Breaker
+	6 Ice Bay Smasher
+	6 Inspiring Commander
+	6 Intel Gatherer
+	6 Intelligence Officer
+	6 Ivankov's Treatment
+	6 Jailhouse Dog
+	7 Jinbei's Declaration
+	15 Rugged Highlands
+	15 Just Cohort
+	6 Just Giant
+	6 Justice Served
+	15 Deploy the Platoon
+	4 Kizaru of Unclear Justice
+	6 Kizaru's Radiant Strike
+	7 Koby, Dedicated Officer
+	6 Kuja Slitherer
+	15 Landlubber Bounty Hunter
+	6 Landseeking Screecher
+	4 Life Sentence
+	15 Lockdown Captain
+	7 Lockdown Experts
+	6 Corrupt Detainer
+	4 Luffy, Captain to All
+	6 Marine Giantsquad
+	6 Enlisted Paragon
+	6 Maritime Sneakcreep
+	7 Prisoner Mine
+	4 Marineford Sentinel
+	15 Maroon
+	15 Mary Geoise Bounty Board
+	6 Medical Squad Graduation
+	6 Merchant of Marineford
+	6 Assemblage of Marines
+	6 Militant Mesmerist
+	6 Moria's Bonesmith
+	6 Plaza Dredgers
+	6 Motley Crew
+	15 Mounted Gunnery
+	15 Naval Strikeleader
+	6 Noxious Guard
+	6 Observation Haki
+	15 On-site Procurement
+	6 Overwhelming Visions
+	6 Pacifista
+	15 Parley
+	6 Payout Pirate
+	6 Petty Officer
+	6 Phoenix-Fire Shot
+	7 Phoenix-Fire Marco
+	15 Phyrric Victory
+	15 Pillaging Plunderer
+	6 Gold Fleet Quartermaster
+	4 Pirate's Pledge
+	15 Play Dead
+	6 Plaza Scavenger
+	15 Plaza Surveyers
+	6 Toxic Pillager
+	6 Price of Darkness
+	15 Prison Transport Escort
+	6 Protector of the Plaza
+	6 Proud Nakama
+	6 Pull Some Strings
+	6 Quartermaster's Assistant
+	7 Raiders' Spoils
+	7 Rear Admiral's Rebuff
+	7 Relentless Slasher
+	6 Repugnant Sergeant
+	6 Rise to the Occasion
+	7 Roger's Declaration
+	15 Rosy-Life Rememberers
+	6 Rotting Giant
+	6 Jungle Hollow
+	6 Rust Touch Man
+	4 Akainu of Thorough Justice
+	6 Akainu's Enforcers
+	15 Sakazuki's Lavaform
+	7 Scallywags
+	15 Science Soldier
+	15 Scoured Barrens
+	7 Scrap
+	15 Seaborne Supporter
+	15 Seafloor Savior
+	6 Seanews Soarers
+	15 Seastone Cuffs
+	15 Seastone Shrapnel
+	15 Secret Police
+	7 Sengoku's Declaration
+	7 Seventh-Division Plunderer
+	7 Shadow Stitching
+	6 Shifting Plaza
+	6 Shipwreck
+	15 Sign in Gold
+	6 Sky Walk Initiate
+	7 Slam the Gates
+	15 Slickening Skulker
+	6 Smash Through
+	15 Smoker, Pluming Commodore
+	7 Snail Intelligence Hub
+	6 Soldiers of Justice
+	6 Son's Betrayal
+	6 Spotlight Scout
+	6 Storm Delay
+	6 Stowaway
+	6 Strange Shipmates
+	15 String Up
+	6 Suckerpunch
+	15 Supersonic Siper
+	6 Search the Bay
+	6 Swiftwater Cliffs
+	7 Swordmaster's Training
+	6 Take Aim
+	7 Teach's Declaration
+	7 The Moby Dick
+	4 The Ox Bell
+	6 Thornwood Falls
+	6 Training Captain
+	6 Tranquil Cove
+	7 Treasure Post
+	15 Treasury Key
+	7 Tsuru, Marine Grandma
+	6 Uncertain Lurker
+	6 Unclaimed Territory
+	15 Unexpected Reinforcements
+	7 Unrelenting Barrage
+	6 Unsure Striker
+	6 Updated Orders
+	6 Usurp
+	7 Vegapunk's Machinations
+	7 Vegapunk's Masterwork
+	15 Vice Admiral
+	15 Volcanic Meteors
+	15 Wallbreacher Giant
+	15 Warranted Praise
+	4 Whitebeard, the Sea's Father
+	7 Whitebeard's Tumult
+	6 Wind-scarred Crag
+	7 World Government Summit
+	6 Wrack with Grief
+	7 Young Recruiter
+	4 Zero-Sum Gunslinger
+	6 The Briny Depths
